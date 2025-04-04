@@ -12,7 +12,7 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://blogsmith-pro.cosmicthemes.com",
+	site: "https://yoursite.com",
 	adapter: netlify({
 		imageCDN: false,
 	}),
